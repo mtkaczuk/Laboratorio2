@@ -1,0 +1,11 @@
+C:\Users\Martin\OneDrive\UTN\2018\Trabajos Prácticos\Tkaczuk.Martin.2D\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Downloads\Tkaczuk.Martin.2D\Entidades\bin\Debug\Entidades.dll
+C:\Users\alumno\Downloads\Tkaczuk.Martin.2D\Entidades\bin\Debug\Entidades.pdb
+C:\Users\alumno\Downloads\Tkaczuk.Martin.2D\Entidades\obj\Debug\Entidades.dll
+C:\Users\alumno\Downloads\Tkaczuk.Martin.2D\Entidades\obj\Debug\Entidades.pdb
+C:\Users\alumno\Downloads\Tkaczuk.Martin.2D\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Tkaczuk.Martin.2D\Entidades\bin\Debug\Entidades.dll
+C:\Users\alumno\Desktop\Tkaczuk.Martin.2D\Entidades\bin\Debug\Entidades.pdb
+C:\Users\alumno\Desktop\Tkaczuk.Martin.2D\Entidades\obj\Debug\Entidades.dll
+C:\Users\alumno\Desktop\Tkaczuk.Martin.2D\Entidades\obj\Debug\Entidades.pdb
+C:\Users\alumno\Desktop\Tkaczuk.Martin.2D\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
