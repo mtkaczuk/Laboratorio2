@@ -1,0 +1,14 @@
+C:\Users\alumno\Desktop\Tkaczuk.Martin.TP04\TestUnitarios\bin\Debug\TestUnitarios.dll
+C:\Users\alumno\Desktop\Tkaczuk.Martin.TP04\TestUnitarios\bin\Debug\TestUnitarios.pdb
+C:\Users\alumno\Desktop\Tkaczuk.Martin.TP04\TestUnitarios\bin\Debug\Entidades.dll
+C:\Users\alumno\Desktop\Tkaczuk.Martin.TP04\TestUnitarios\bin\Debug\Entidades.pdb
+C:\Users\alumno\Desktop\Tkaczuk.Martin.TP04\TestUnitarios\obj\Debug\TestUnitarios.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Tkaczuk.Martin.TP04\TestUnitarios\obj\Debug\TestUnitarios.dll
+C:\Users\alumno\Desktop\Tkaczuk.Martin.TP04\TestUnitarios\obj\Debug\TestUnitarios.pdb
+E:\Tkaczuk.Martin.TP04\TestUnitarios\bin\Debug\TestUnitarios.dll
+E:\Tkaczuk.Martin.TP04\TestUnitarios\bin\Debug\TestUnitarios.pdb
+E:\Tkaczuk.Martin.TP04\TestUnitarios\bin\Debug\Entidades.dll
+E:\Tkaczuk.Martin.TP04\TestUnitarios\bin\Debug\Entidades.pdb
+E:\Tkaczuk.Martin.TP04\TestUnitarios\obj\Debug\TestUnitarios.csprojResolveAssemblyReference.cache
+E:\Tkaczuk.Martin.TP04\TestUnitarios\obj\Debug\TestUnitarios.dll
+E:\Tkaczuk.Martin.TP04\TestUnitarios\obj\Debug\TestUnitarios.pdb

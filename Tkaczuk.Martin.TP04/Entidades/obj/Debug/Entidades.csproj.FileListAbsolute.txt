@@ -1,0 +1,17 @@
+C:\Users\martin.tkaczuk\Desktop\Tkaczuk.Martin.TP04\Entidades\bin\Debug\Entidades.dll
+C:\Users\martin.tkaczuk\Desktop\Tkaczuk.Martin.TP04\Entidades\bin\Debug\Entidades.pdb
+C:\Users\martin.tkaczuk\Desktop\Tkaczuk.Martin.TP04\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\martin.tkaczuk\Desktop\Tkaczuk.Martin.TP04\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\martin.tkaczuk\Desktop\Tkaczuk.Martin.TP04\Entidades\obj\Debug\Entidades.dll
+C:\Users\martin.tkaczuk\Desktop\Tkaczuk.Martin.TP04\Entidades\obj\Debug\Entidades.pdb
+C:\Users\alumno\Desktop\Tkaczuk.Martin.TP04\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\alumno\Desktop\Tkaczuk.Martin.TP04\Entidades\bin\Debug\Entidades.dll
+C:\Users\alumno\Desktop\Tkaczuk.Martin.TP04\Entidades\bin\Debug\Entidades.pdb
+C:\Users\alumno\Desktop\Tkaczuk.Martin.TP04\Entidades\obj\Debug\Entidades.dll
+C:\Users\alumno\Desktop\Tkaczuk.Martin.TP04\Entidades\obj\Debug\Entidades.pdb
+E:\Tkaczuk.Martin.TP04\Entidades\bin\Debug\Entidades.dll.config
+E:\Tkaczuk.Martin.TP04\Entidades\bin\Debug\Entidades.dll
+E:\Tkaczuk.Martin.TP04\Entidades\bin\Debug\Entidades.pdb
+E:\Tkaczuk.Martin.TP04\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+E:\Tkaczuk.Martin.TP04\Entidades\obj\Debug\Entidades.dll
+E:\Tkaczuk.Martin.TP04\Entidades\obj\Debug\Entidades.pdb
